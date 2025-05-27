@@ -1,0 +1,7 @@
+train: /home/zyl/D-Fire-001/images/train
+val: /home/zyl/D-Fire-001/images/val
+test: /home/zyl/D-Fire-001/images/test
+
+nc: 2
+
+names: ['smoke','fire']
